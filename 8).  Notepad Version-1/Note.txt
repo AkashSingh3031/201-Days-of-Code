@@ -1,0 +1,5 @@
+Hello Everyone-----
+
+My Name is  Akash Singh
+
+I am created this Notepad using Python Language with Tkinter module.
