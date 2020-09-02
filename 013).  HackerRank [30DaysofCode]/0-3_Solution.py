@@ -24,3 +24,12 @@ print(s+c)
 ##### 3rd Solution
 
 print(round(float(input())*(1+int(input())*.01+int(input())*.01)))
+
+##### 4th Solution
+
+N = int(input())
+
+if N%2==1 or (N>3 and N<21):
+    print("Weird")
+else:
+    print("Not Weird")
