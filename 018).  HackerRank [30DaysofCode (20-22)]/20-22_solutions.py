@@ -27,7 +27,7 @@ print("Last Element: {}".format(a[len(a)-1]))
 #In this solution using C++ Langauge; 
 # because No options choosing Python Langauge
 
-# Go To 22_solution.cpp file 
+# Go To 21_solution.cpp file 
 
 ##### 23st Solution
 #---------------------------------------------------------------
