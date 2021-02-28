@@ -171,10 +171,3 @@ html,body{
 .wrapper span:last-child{
   filter: blur(20px);
 }
-
-input[type=checkbox] {
-  height: 0;
-  width: 0;
-  visibility: hidden;
-  display: none;
-}
