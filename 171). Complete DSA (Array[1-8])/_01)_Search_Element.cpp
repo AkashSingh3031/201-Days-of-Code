@@ -15,5 +15,5 @@ int search(int arr[], int n, int x)
 int main()
 {
 	int arr[] = {20, 5, 7, 25}, x = 5;
-    cout<<"Searched Index = "<<search(arr, 4, x)<<endl;;
+	cout<<"Searched Index = "<<search(arr, 4, x)<<endl;
 }
